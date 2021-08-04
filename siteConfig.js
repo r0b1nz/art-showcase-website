@@ -1,9 +1,9 @@
 module.exports = {
-  name: 'London',
-  shortName: 'London',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
-  url: 'https://gatsby-london.netlify.com', // Domain of your site without prefix!
+  name: 'Chit1 Studios',
+  shortName: 'Chit1',
+  description: 'A bold, minimal display of artifacts, focused on clean intentions & beautiful imagery',
+  url: 'https://artshowcasewebsite.gatsbyjs.io/',
   prefix: '/',
-  author: 'Imed Adel',
-  twitter: 'Imed_Adel'
+  author: 'Robin Gautam',
+  twitter: 'r0b1nz'
 }
