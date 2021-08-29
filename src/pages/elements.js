@@ -14,7 +14,7 @@ const ElementsPage = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="All posts"
+        title="Robin tests..."
         keywords={[`blog`, `gatsby`, `javascript`, `react`]}
       />
 
@@ -23,11 +23,11 @@ const ElementsPage = ({ data }, location) => {
           <p>
             This is{" "}
             <strong>
-              <strong>bold</strong>
+              <strong>RRROOBBBIIINNNNN</strong>
             </strong>{" "}
             and this is{" "}
             <strong>
-              <strong>strong</strong>
+              <strong>me trying text formatting..</strong>
             </strong>
             . This is{" "}
             <em>
