@@ -7,7 +7,7 @@ description: H.H. Sri Sri Ravi Shanker
 
 # Sri Sri Ravi Shankar
 
-> Love is not an emotion. It is your very existence
+> Love is not an emotion. It is your very existence!
 >
 > -- Sri Sri Ravi Shankar
 
